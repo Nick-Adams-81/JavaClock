@@ -33,10 +33,10 @@ public class MyFrame extends JFrame {
         timeLabel.setOpaque(true);
 
         dayLabel = new JLabel();
-        dayLabel.setFont(new Font("Ink Free", Font.PLAIN, 35));
+        dayLabel.setFont(new Font("InkFree", Font.PLAIN, 35));
 
         dateLabel = new JLabel();
-        dateLabel.setFont(new Font("Ink free", Font.PLAIN, 25));
+        dateLabel.setFont(new Font("InkFree", Font.PLAIN, 25));
 
         this.add(timeLabel);
         this.add(dayLabel);
